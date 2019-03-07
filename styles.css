@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+#secretMessage1 {
+    color:white;
+}
+h1 {
+    font-family: 'Coiny', cursive;
+    color:blue;
+}
+h2 {
+    color: blue;
+    font-family: 'Staatliches', cursive;
+}
